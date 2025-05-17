@@ -1,6 +1,6 @@
 # portofolio-doni-wahyudi
 ---
-![Banner](https://github.com/doni-wahyudi/portofolio-doni-wahyudi/blob/main/banner.png)
+![Banner](https://github.com/doni-wahyudi/portofolio-doni-wahyudi/blob/main/image.png)
 
 ---
 ##### Hi, I’m Doni, a Data Engineer experienced in on-premise and cloud. 
