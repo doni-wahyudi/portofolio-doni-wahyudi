@@ -8,7 +8,7 @@
 ##### I am currently participating in the Eco Techno Leadership Program, which aims to utilize AI to develop an app that could aid in creating a better, more environmentally friendly, and more sustainable planet.
 ---
 ##### If you're interested in my background or want to see what I’ve worked on, you could check my CV here:
-[Doni Wahyudi's CV](https://github.com/doni-wahyudi/portofolio-doni-wahyudi/blob/main/cv-pdf/CV%20Doni%20Wahyudi.pdf)
+[Doni Wahyudi's CV](https://github.com/doni-wahyudi/portofolio-doni-wahyudi/blob/main/cv-pdf/CV_Doni_Wahyudi.pdf)
 
 ##### Looking forward to new challenges, collaborations, and opportunities to grow—let’s make something great together.
 ##### Thankyou!
