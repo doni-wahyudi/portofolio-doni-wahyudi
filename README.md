@@ -1,4 +1,4 @@
-# portofolio-doni-wahyudi
+# Doni Wahyudi's Portfolio
 ---
 ![Banner](https://github.com/doni-wahyudi/portofolio-doni-wahyudi/blob/main/banner.png)
 ---
